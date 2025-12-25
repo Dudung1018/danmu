@@ -17,7 +17,7 @@ export const HTML_TEMPLATE = /* html */ `
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LogVar弹幕API</title>
+    <title>弹幕API</title>
     <link rel="icon" type="image/jpg" href="https://i.mji.rip/2025/09/27/eedc7b701c0fa5c1f7c175b22f441ad9.jpeg">
     <style>${baseCssContent}</style>
     <style>${componentsCssContent}</style>
@@ -36,7 +36,7 @@ export const HTML_TEMPLATE = /* html */ `
             <div class="header-left">
                 <div class="logo-title-container">
                     <div class="logo"><img src="https://i.mji.rip/2025/09/27/eedc7b701c0fa5c1f7c175b22f441ad9.jpeg" width="500"/></div>
-                    <h1>LogVar弹幕API</h1>
+                    <h1>弹幕API</h1>
                 </div>
                 <div class="version-info">
                     <span class="version-badge">当前版本: <span id="current-version">v${globals.version}</span></span>
