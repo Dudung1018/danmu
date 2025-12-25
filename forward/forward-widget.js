@@ -6,10 +6,10 @@ const wv = typeof widgetVersion !== 'undefined' ? widgetVersion : Globals.VERSIO
 
 WidgetMetadata = {
   id: "forward.auto.danmu2",
-  title: "自动链接弹幕v2",
+  title: "自动链接弹幕",
   version: wv,
   requiredVersion: "0.0.2",
-  description: "自动获取播放链接并从服务器获取弹幕【五折码：CHEAP.5;七折码：CHEAP】",
+  description: "自建玩玩",
   author: "huangxd",
   site: "https://github.com/huangxd-/ForwardWidgets",
   globalParams: [
